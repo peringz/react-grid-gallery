@@ -4,7 +4,7 @@
   "description": "Justified gallery component for React.",
   "main": "lib/Gallery.js",
   "dependencies": {
-    "react-images": "^0.5.6"
+    "react-images": "https://github.com/peringz/react-images/tarball/master"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
